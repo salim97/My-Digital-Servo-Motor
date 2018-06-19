@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>motor.png</file>
+        <file>motor_head.png</file>
+    </qresource>
+</RCC>
