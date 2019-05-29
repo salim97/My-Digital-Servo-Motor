@@ -11,6 +11,9 @@ Control Digital Servo Motor in real time, using application cross platform ( win
 ## 2018
 [![](youtube-servo-motor-2018.gif)](https://www.youtube.com/watch?v=JP0dEOPJrW8)
 
+# Download ( windows / android ) executable
+https://github.com/salim97/My-Digital-Servo-Motor/releases/tag/v1.0
+
 # hardware Setup
 in this project i'm using MG996R servo motor
 
