@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>obj/9G-Servo - Mini Servo clip-1.obj</file>
+        <file>obj/9G-Servo - Mini Servo-1.obj</file>
+        <file>ServoMotor3D.qml</file>
+        <file>My3dBasicCamera.qml</file>
+        <file>My3Dobj.qml</file>
+        <file>WireframeEffect.qml</file>
+        <file>WireframeMaterial.qml</file>
+        <file>shaders/robustwireframe.frag</file>
+        <file>shaders/robustwireframe.geom</file>
+        <file>shaders/robustwireframe.vert</file>
+    </qresource>
+</RCC>
