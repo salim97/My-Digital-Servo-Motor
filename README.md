@@ -6,9 +6,13 @@ Control Digital Servo Motor in real time, using application cross platform ( win
 # Results
 
 ## 2019
+https://www.youtube.com/watch?v=EHaF01cJuXc
+
 [![](youtube-servo-motor-2019.gif)](https://www.youtube.com/watch?v=EHaF01cJuXc)
 
 ## 2018
+https://www.youtube.com/watch?v=JP0dEOPJrW8
+
 [![](youtube-servo-motor-2018.gif)](https://www.youtube.com/watch?v=JP0dEOPJrW8)
 
 # Download ( windows / android ) executable
