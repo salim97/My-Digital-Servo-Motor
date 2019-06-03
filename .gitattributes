@@ -1,3 +1,4 @@
 * linguist-vendored
-*.cpp linguist-vendored=false
+*.cpp linguist-language=C++
+*.qml linguist-language=QML
 
