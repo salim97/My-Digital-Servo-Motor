@@ -1,2 +1,3 @@
-*.cpp linguist-detectable=true
-*.qml linguist-detectable=true
+* linguist-vendored
+*.cpp linguist-vendored=true
+*.qml linguist-vendored=true
