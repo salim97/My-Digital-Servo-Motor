@@ -36,7 +36,7 @@ See also: https://easyeda.com/benabadji.mohammed.salim/My-Digital-Servo-Motor
 
 
 # Software Setup
-you need Qt you can download it from official site
+you need Qt, you can download it from official site
 and then download source code and build it for any platform you are using 
 
 [App Source Code](https://github.com/salim97/My-Digital-Servo-Motor/tree/master/QT_Application/Src)
